@@ -1,2 +1,2 @@
 # grafana-prometheus-loki-node-exporter-compose
-grafana+prometheus+loki+node-exporter-compose-yaml
+File to run grafana+prometheus+loki+node-exporter. The file does not contain individual settings. To run you need docker installed.
